@@ -1,9 +1,9 @@
 {
-    "MyPowerWalk"[ 
-"ID" : "01",
-"Day" : "Sunday",
-"Time" :"10:30",
-"User" : "Mohan",
+    "MyPowerWalk": [ 
+"ID":"01",
+"Day":"Sunday",
+"Time":"10:30",
+"User":"Mohan",
 "Distance":"2.3"
     ]
 }
